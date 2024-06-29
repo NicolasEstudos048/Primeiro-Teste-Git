@@ -1,0 +1,1 @@
+[A[A[B[B[B[ATentando adicionar um arquivo no mesmo diretório do main
